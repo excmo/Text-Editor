@@ -1,0 +1,9 @@
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\bin\Debug\texted.exe.config
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\bin\Debug\texted.exe
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\bin\Debug\texted.pdb
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.csprojResolveAssemblyReference.cache
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.Form1.resources
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.Properties.Resources.resources
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.csproj.GenerateResource.Cache
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.exe
+H:\OTROS\ROM HACKING\PROGRAMAS\Text Editor\texted\obj\Debug\texted.pdb
